@@ -1,0 +1,20 @@
+{
+  "name": "desafio_teste_campo_minado",
+  "version": "1.0.0",
+  "description": "Casos de teste em JavaScript, com Jest, para o jogo Campo Minado (tabuleiro 18 x 14 com 40 minas).",
+  "main": "src/partida.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "author": "Gustavo de Almeida Gomes",
+  "license": "ISC",
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.js"
+    ]
+  },
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
