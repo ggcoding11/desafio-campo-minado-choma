@@ -4,7 +4,7 @@ Lógica do jogo **Campo Minado** (tabuleiro 18 x 14 com 40 minas) em JavaScript,
 
 ## Colaborador
 
-- Gustavo de Almeida Gomes
+- Gustavo de Almeida Gomes (24000271-2)
 
 ## Especificação do desafio
 
